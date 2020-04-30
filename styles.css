@@ -1,0 +1,94 @@
+
+.nav {
+min-height: 40px;
+background-color: #cca8d8;
+text-align: center;
+padding: 10px;
+font-weight: 600;
+}
+
+.menu {
+  display: flex;
+  flex-flow: row;
+  color: #000;
+  list-style-type: none;
+  margin: 0 auto;
+ padding: 0;
+ justify-content: space-around;
+
+}
+.name {
+  display: block;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  font-weight: normal;
+  margin-top: 10px;
+}
+
+header {
+ width: 100%;
+ height: 400px;
+background-image: url(https://i.pinimg.com/originals/a2/4f/de/a24fde6cc829887c701101889191ba1d.jpg);
+  background-size: cover;
+text-align: center;
+padding-top: 40px;
+}
+.tag {
+  margin-top:2px;
+  line-height: 20px;
+}
+.content {
+  display: flex;
+  flex-flow: row;
+  margin: 0 auto;
+  justify-content: space-around;
+  font-size: 20pt;
+}
+.card {
+  max-width: 500px;
+  margin: 10px;
+padding: 50px;
+
+border-bottom: 3px solid #ffdd94;
+border-radius: 5px;
+}
+.title {
+    background-color: #86e3c3;
+    text-align: center;
+    border-radius: 10px;
+}
+.sub-title {
+  background-color: #fa897b;
+  text-align: center;
+  border-radius: 10px;
+}
+.section{
+padding: 0;
+
+  list-style-type: circle;
+}
+.second-section {
+  padding: 0;
+
+    list-style-type: circle;
+
+}
+.exmcolor {
+  text-align: center;
+}
+.firstexm {
+
+  background-color: #86e3c3;
+  color: #000;
+}
+.exmfont {
+  text-align: center;
+}
+.secondexm {
+  background-color: #fa897b;
+  color: #000;
+}
+
+.tag2 {
+  text-align: center;
+}
